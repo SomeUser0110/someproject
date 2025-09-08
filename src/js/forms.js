@@ -1,3 +1,6 @@
+<head>
+  <script src="main.js" defer></script>
+  
 const dlg = document.getElementById('contactDialog');
 const openBtn = document.getElementById('openDialog');
 const closeBtn = document.getElementById('closeDialog');
